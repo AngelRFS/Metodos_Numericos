@@ -16,7 +16,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
  # Seccion 7.1 
 ======================
 
@@ -2642,8 +2641,73 @@ cat(sprintf("x^(10) = %s\n", paste(sprintf("%.8f", x), collapse=", ")))
 cat(sprintf("||dx||_inf = %.8e | ||r||_inf = %.8e\n", dx_inf, max(abs(r))))
 ```
 
-# Ejercicio 7.10
-Revisa en R los codigos para resolver sistemas de ecuaciones lineales, esto en un archivo tipo Rmd, mismo que deberas de entregar.
-```{r}
+# Ejercicios del Portafolio a mano
 
+```{r}
+knitr::include_graphics("sec7-3_ej6.jpg")
+
+```
+
+```{r}
+knitr::include_graphics("sec7-3_ej7.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-3_ej7p2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-3_ej8.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-3_ej8p2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-4_ej2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-4_ej2p2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-4_ej4.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-4_ej4p2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-5_ej5.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-5_ej5p2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-5_ej8.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-5_ej8p2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-6_ej5.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-6_ej8.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-7_ej2.jpg")
+```
+
+```{r}
+knitr::include_graphics("sec7-7_ej7.jpg")
 ```
